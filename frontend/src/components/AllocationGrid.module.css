@@ -1,0 +1,158 @@
+.container {
+  padding: 1rem;
+  font-family: sans-serif;
+}
+
+/* Header + buttons */
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin-bottom: 1.5rem;
+}
+.titleGroup {
+  flex: 1;
+  min-width: 200px;
+  margin: 0 1rem;
+}
+.title {
+  margin: 0;
+  font-size: 1.75rem;
+  font-weight: 700;
+}
+.subtitle {
+  margin-top: 0.25rem;
+  color: #4b5563;
+}
+.actions {
+  display: flex;
+  gap: 0.75rem;
+}
+.button {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.5rem 0.75rem;
+  border: none;
+  border-radius: 0.375rem;
+  cursor: pointer;
+  font-weight: 500;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+.allocateBtn {
+  background-color: #6366f1;
+  color: white;
+}
+.allocateBtn:hover {
+  background-color: #4f46e5;
+}
+.exportBtn {
+  background-color: #3b82f6;
+  color: white;
+}
+.scheduleBtn {
+  background-color: #10b981;
+  color: white;
+}
+
+/* Search & filter */
+.searchFilter {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+  margin-bottom: 1.5rem;
+}
+.searchBar,
+.filterSelect {
+  display: flex;
+  align-items: center;
+  border: 1px solid #d1d5db;
+  border-radius: 0.375rem;
+  padding: 0.25rem 0.5rem;
+}
+.searchBar input,
+.filterSelect select {
+  border: none;
+  outline: none;
+  padding: 0.5rem;
+}
+
+/* Top stats cards */
+.statsGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 1rem;
+  margin-bottom: 1.5rem;
+}
+.statCard {
+  background: rgba(255, 255, 255, 0.7);
+  backdrop-filter: blur(8px);
+  border-radius: 0.75rem;
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+.statCard h3 {
+  margin: 0;
+  font-size: 1rem;
+  font-weight: 600;
+}
+.statValue {
+  font-size: 1.75rem;
+  font-weight: 700;
+}
+.statMeta {
+  display: flex;
+  align-items: center;
+  gap: 0.25rem;
+  color: #f59e0b;
+  font-size: 0.875rem;
+}
+
+/* Summary table */
+.summaryTable {
+  overflow-x: auto;
+  margin-bottom: 1.5rem;
+}
+.summaryTable table {
+  width: 100%;
+  border-collapse: collapse;
+}
+.summaryTable th,
+.summaryTable td {
+  padding: 0.5rem;
+  text-align: left;
+  border-bottom: 1px solid #e5e7eb;
+}
+.summaryTable thead {
+  background-color: #f3f4f6;
+}
+
+/* Shift grid */
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1rem;
+}
+.card {
+  background: rgba(255, 255, 255, 0.7);
+  backdrop-filter: blur(8px);
+  border-radius: 0.75rem;
+  padding: 1rem;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+.card h4 {
+  margin: 0 0 0.5rem;
+  font-size: 1.125rem;
+  font-weight: 600;
+}
+.card .count {
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+.card .note {
+  font-size: 0.875rem;
+  color: #6b7280;
+}

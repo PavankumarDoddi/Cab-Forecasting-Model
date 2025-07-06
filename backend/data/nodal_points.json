@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "name": "NodalPoint1",
+    "coordinates": { "latitude": 12.868694, "longitude": 80.131918 }
+  },
+  {
+    "id": 2,
+    "name": "NodalPoint2",
+    "coordinates": { "latitude": 12.770786, "longitude": 80.182493 }
+  },
+  {
+    "id": 3,
+    "name": "NodalPoint3",
+    "coordinates": { "latitude": 12.828750, "longitude": 80.283957 }
+  },
+  {
+    "id": 4,
+    "name": "NodalPoint4",
+    "coordinates": { "latitude": 12.830797, "longitude": 80.138110 }
+  },
+  {
+    "id": 5,
+    "name": "NodalPoint5",
+    "coordinates": { "latitude": 12.884915, "longitude": 80.323145 }
+  },
+  {
+    "id": 6,
+    "name": "NodalPoint6",
+    "coordinates": { "latitude": 12.694352, "longitude": 80.207634 }
+  },
+  {
+    "id": 7,
+    "name": "NodalPoint7",
+    "coordinates": { "latitude": 12.783710, "longitude": 80.293421 }
+  },
+  {
+    "id": 8,
+    "name": "NodalPoint8",
+    "coordinates": { "latitude": 12.849205, "longitude": 80.150888 }
+  },
+  {
+    "id": 9,
+    "name": "NodalPoint9",
+    "coordinates": { "latitude": 12.751232, "longitude": 80.268522 }
+  },
+  {
+    "id": 10,
+    "name": "NodalPoint10",
+    "coordinates": { "latitude": 12.821304, "longitude": 80.102845 }
+  },
+  {
+    "id": 11,
+    "name": "NodalPoint11",
+    "coordinates": { "latitude": 12.794518, "longitude": 80.208374 }
+  },
+  {
+    "id": 12,
+    "name": "NodalPoint12",
+    "coordinates": { "latitude": 12.909472, "longitude": 80.181152 }
+  },
+  {
+    "id": 13,
+    "name": "NodalPoint13",
+    "coordinates": { "latitude": 12.734861, "longitude": 80.200945 }
+  },
+  {
+    "id": 14,
+    "name": "NodalPoint14",
+    "coordinates": { "latitude": 12.865938, "longitude": 80.262523 }
+  },
+  {
+    "id": 15,
+    "name": "NodalPoint15",
+    "coordinates": { "latitude": 12.750482, "longitude": 80.147892 }
+  },
+  {
+    "id": 16,
+    "name": "NodalPoint16",
+    "coordinates": { "latitude": 12.922135, "longitude": 80.263715 }
+  },
+  {
+    "id": 17,
+    "name": "NodalPoint17",
+    "coordinates": { "latitude": 12.690456, "longitude": 80.189133 }
+  },
+  {
+    "id": 18,
+    "name": "NodalPoint18",
+    "coordinates": { "latitude": 12.859742, "longitude": 80.247391 }
+  },
+  {
+    "id": 19,
+    "name": "NodalPoint19",
+    "coordinates": { "latitude": 12.770348, "longitude": 80.253672 }
+  },
+  {
+    "id": 20,
+    "name": "NodalPoint20",
+    "coordinates": { "latitude": 12.812506, "longitude": 80.184219 }
+  }
+]

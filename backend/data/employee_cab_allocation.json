@@ -1,0 +1,702 @@
+[
+  {
+    "employee_id": "EMP001",
+    "shift": "Morning",
+    "pickup": {
+      "type": "doorstep",
+      "coords": [
+        12.869967,
+        80.132443
+      ]
+    },
+    "cab_id": "CAB-Mo-1",
+    "eta": "05:45",
+    "departure": "06:00"
+  },
+  {
+    "employee_id": "EMP002",
+    "shift": "Afternoon",
+    "pickup": {
+      "type": "nodal",
+      "coords": [
+        12.770786,
+        80.182493
+      ]
+    },
+    "cab_id": "CAB-Af-1",
+    "eta": "13:45",
+    "departure": "14:00"
+  },
+  {
+    "employee_id": "EMP003",
+    "shift": "Night",
+    "pickup": {
+      "type": "doorstep",
+      "coords": [
+        12.829372,
+        80.282353
+      ]
+    },
+    "cab_id": "CAB-Ni-1",
+    "eta": "21:45",
+    "departure": "22:00"
+  },
+  {
+    "employee_id": "EMP004",
+    "shift": "Mid Day",
+    "pickup": {
+      "type": "nodal",
+      "coords": [
+        12.830797,
+        80.13811
+      ]
+    },
+    "cab_id": "CAB-Mi-1",
+    "eta": "10:45",
+    "departure": "11:00"
+  },
+  {
+    "employee_id": "EMP005",
+    "shift": "Afternoon",
+    "pickup": {
+      "type": "nodal",
+      "coords": [
+        12.884915,
+        80.323145
+      ]
+    },
+    "cab_id": "CAB-Af-1",
+    "eta": "13:45",
+    "departure": "14:00"
+  },
+  {
+    "employee_id": "EMP006",
+    "shift": "Night",
+    "pickup": {
+      "type": "doorstep",
+      "coords": [
+        12.693719,
+        80.207435
+      ]
+    },
+    "cab_id": "CAB-Ni-1",
+    "eta": "21:32",
+    "departure": "22:00"
+  },
+  {
+    "employee_id": "EMP007",
+    "shift": "Night",
+    "pickup": {
+      "type": "doorstep",
+      "coords": [
+        12.782724,
+        80.291736
+      ]
+    },
+    "cab_id": "CAB-Ni-1",
+    "eta": "21:45",
+    "departure": "22:00"
+  },
+  {
+    "employee_id": "EMP008",
+    "shift": "General",
+    "pickup": {
+      "type": "nodal",
+      "coords": [
+        12.849205,
+        80.150888
+      ]
+    },
+    "cab_id": "CAB-Ge-1",
+    "eta": "08:31",
+    "departure": "09:00"
+  },
+  {
+    "employee_id": "EMP009",
+    "shift": "General",
+    "pickup": {
+      "type": "nodal",
+      "coords": [
+        12.751232,
+        80.268522
+      ]
+    },
+    "cab_id": "CAB-Ge-1",
+    "eta": "08:45",
+    "departure": "09:00"
+  },
+  {
+    "employee_id": "EMP010",
+    "shift": "Morning",
+    "pickup": {
+      "type": "doorstep",
+      "coords": [
+        12.820397,
+        80.104672
+      ]
+    },
+    "cab_id": "CAB-Mo-1",
+    "eta": "05:08",
+    "departure": "06:00"
+  },
+  {
+    "employee_id": "EMP011",
+    "shift": "Morning",
+    "pickup": {
+      "type": "doorstep",
+      "coords": [
+        12.795149,
+        80.207345
+      ]
+    },
+    "cab_id": "CAB-Mo-1",
+    "eta": "05:27",
+    "departure": "06:00"
+  },
+  {
+    "employee_id": "EMP012",
+    "shift": "Morning",
+    "pickup": {
+      "type": "doorstep",
+      "coords": [
+        12.910932,
+        80.18108
+      ]
+    },
+    "cab_id": "CAB-Mo-1",
+    "eta": "05:45",
+    "departure": "06:00"
+  },
+  {
+    "employee_id": "EMP013",
+    "shift": "Afternoon",
+    "pickup": {
+      "type": "nodal",
+      "coords": [
+        12.734861,
+        80.200945
+      ]
+    },
+    "cab_id": "CAB-Af-1",
+    "eta": "13:45",
+    "departure": "14:00"
+  },
+  {
+    "employee_id": "EMP014",
+    "shift": "Night",
+    "pickup": {
+      "type": "doorstep",
+      "coords": [
+        12.864941,
+        80.260761
+      ]
+    },
+    "cab_id": "CAB-Ni-1",
+    "eta": "21:45",
+    "departure": "22:00"
+  },
+  {
+    "employee_id": "EMP015",
+    "shift": "Morning",
+    "pickup": {
+      "type": "doorstep",
+      "coords": [
+        12.749922,
+        80.147903
+      ]
+    },
+    "cab_id": "CAB-Mo-1",
+    "eta": "05:45",
+    "departure": "06:00"
+  },
+  {
+    "employee_id": "EMP016",
+    "shift": "General",
+    "pickup": {
+      "type": "nodal",
+      "coords": [
+        12.922135,
+        80.263715
+      ]
+    },
+    "cab_id": "CAB-Ge-1",
+    "eta": "08:45",
+    "departure": "09:00"
+  },
+  {
+    "employee_id": "EMP017",
+    "shift": "Night",
+    "pickup": {
+      "type": "doorstep",
+      "coords": [
+        12.689416,
+        80.191052
+      ]
+    },
+    "cab_id": "CAB-Ni-1",
+    "eta": "21:21",
+    "departure": "22:00"
+  },
+  {
+    "employee_id": "EMP019",
+    "shift": "Night",
+    "pickup": {
+      "type": "doorstep",
+      "coords": [
+        12.770645,
+        80.253589
+      ]
+    },
+    "cab_id": "CAB-Ni-1",
+    "eta": "21:36",
+    "departure": "22:00"
+  },
+  {
+    "employee_id": "EMP018",
+    "shift": "Night",
+    "pickup": {
+      "type": "doorstep",
+      "coords": [
+        12.861061,
+        80.248076
+      ]
+    },
+    "cab_id": "CAB-Ni-1",
+    "eta": "21:45",
+    "departure": "22:00"
+  },
+  {
+    "employee_id": "EMP020",
+    "shift": "Morning",
+    "pickup": {
+      "type": "doorstep",
+      "coords": [
+        12.811543,
+        80.182275
+      ]
+    },
+    "cab_id": "CAB-Mo-1",
+    "eta": "05:45",
+    "departure": "06:00"
+  },
+  {
+    "employee_id": "EMP021",
+    "shift": "Night",
+    "pickup": {
+      "type": "doorstep",
+      "coords": [
+        12.866773,
+        80.133439
+      ]
+    },
+    "cab_id": "CAB-Ni-1",
+    "eta": "21:45",
+    "departure": "22:00"
+  },
+  {
+    "employee_id": "EMP022",
+    "shift": "Mid Day",
+    "pickup": {
+      "type": "nodal",
+      "coords": [
+        12.770786,
+        80.182493
+      ]
+    },
+    "cab_id": "CAB-Mi-1",
+    "eta": "10:45",
+    "departure": "11:00"
+  },
+  {
+    "employee_id": "EMP023",
+    "shift": "Afternoon",
+    "pickup": {
+      "type": "nodal",
+      "coords": [
+        12.82875,
+        80.283957
+      ]
+    },
+    "cab_id": "CAB-Af-1",
+    "eta": "13:45",
+    "departure": "14:00"
+  },
+  {
+    "employee_id": "EMP024",
+    "shift": "Morning",
+    "pickup": {
+      "type": "doorstep",
+      "coords": [
+        12.829888,
+        80.139327
+      ]
+    },
+    "cab_id": "CAB-Mo-1",
+    "eta": "05:24",
+    "departure": "06:00"
+  },
+  {
+    "employee_id": "EMP025",
+    "shift": "Morning",
+    "pickup": {
+      "type": "doorstep",
+      "coords": [
+        12.886723,
+        80.324876
+      ]
+    },
+    "cab_id": "CAB-Mo-1",
+    "eta": "05:45",
+    "departure": "06:00"
+  },
+  {
+    "employee_id": "EMP026",
+    "shift": "Night",
+    "pickup": {
+      "type": "doorstep",
+      "coords": [
+        12.696048,
+        80.205865
+      ]
+    },
+    "cab_id": "CAB-Ni-1",
+    "eta": "21:05",
+    "departure": "22:00"
+  },
+  {
+    "employee_id": "EMP027",
+    "shift": "Night",
+    "pickup": {
+      "type": "doorstep",
+      "coords": [
+        12.78388,
+        80.293697
+      ]
+    },
+    "cab_id": "CAB-Ni-1",
+    "eta": "21:31",
+    "departure": "22:00"
+  },
+  {
+    "employee_id": "EMP028",
+    "shift": "Night",
+    "pickup": {
+      "type": "doorstep",
+      "coords": [
+        12.849336,
+        80.150646
+      ]
+    },
+    "cab_id": "CAB-Ni-1",
+    "eta": "21:45",
+    "departure": "22:00"
+  },
+  {
+    "employee_id": "EMP029",
+    "shift": "General",
+    "pickup": {
+      "type": "nodal",
+      "coords": [
+        12.751232,
+        80.268522
+      ]
+    },
+    "cab_id": "CAB-Ge-1",
+    "eta": "08:24",
+    "departure": "09:00"
+  },
+  {
+    "employee_id": "EMP030",
+    "shift": "General",
+    "pickup": {
+      "type": "nodal",
+      "coords": [
+        12.821304,
+        80.102845
+      ]
+    },
+    "cab_id": "CAB-Ge-1",
+    "eta": "08:45",
+    "departure": "09:00"
+  },
+  {
+    "employee_id": "EMP031",
+    "shift": "Mid Day",
+    "pickup": {
+      "type": "nodal",
+      "coords": [
+        12.794518,
+        80.208374
+      ]
+    },
+    "cab_id": "CAB-Mi-1",
+    "eta": "10:28",
+    "departure": "11:00"
+  },
+  {
+    "employee_id": "EMP032",
+    "shift": "Mid Day",
+    "pickup": {
+      "type": "nodal",
+      "coords": [
+        12.909472,
+        80.181152
+      ]
+    },
+    "cab_id": "CAB-Mi-1",
+    "eta": "10:45",
+    "departure": "11:00"
+  },
+  {
+    "employee_id": "EMP033",
+    "shift": "Morning",
+    "pickup": {
+      "type": "doorstep",
+      "coords": [
+        12.734683,
+        80.19973
+      ]
+    },
+    "cab_id": "CAB-Mo-1",
+    "eta": "05:45",
+    "departure": "06:00"
+  },
+  {
+    "employee_id": "EMP034",
+    "shift": "Night",
+    "pickup": {
+      "type": "doorstep",
+      "coords": [
+        12.86645,
+        80.262289
+      ]
+    },
+    "cab_id": "CAB-Ni-1",
+    "eta": "21:45",
+    "departure": "22:00"
+  },
+  {
+    "employee_id": "EMP035",
+    "shift": "Afternoon",
+    "pickup": {
+      "type": "nodal",
+      "coords": [
+        12.750482,
+        80.147892
+      ]
+    },
+    "cab_id": "CAB-Af-1",
+    "eta": "13:45",
+    "departure": "14:00"
+  },
+  {
+    "employee_id": "EMP036",
+    "shift": "Morning",
+    "pickup": {
+      "type": "doorstep",
+      "coords": [
+        12.922671,
+        80.264838
+      ]
+    },
+    "cab_id": "CAB-Mo-1",
+    "eta": "05:22",
+    "departure": "06:00"
+  },
+  {
+    "employee_id": "EMP037",
+    "shift": "Morning",
+    "pickup": {
+      "type": "doorstep",
+      "coords": [
+        12.68881,
+        80.190978
+      ]
+    },
+    "cab_id": "CAB-Mo-1",
+    "eta": "05:45",
+    "departure": "06:00"
+  },
+  {
+    "employee_id": "EMP038",
+    "shift": "Mid Day",
+    "pickup": {
+      "type": "nodal",
+      "coords": [
+        12.859742,
+        80.247391
+      ]
+    },
+    "cab_id": "CAB-Mi-1",
+    "eta": "10:45",
+    "departure": "11:00"
+  },
+  {
+    "employee_id": "EMP039",
+    "shift": "Afternoon",
+    "pickup": {
+      "type": "nodal",
+      "coords": [
+        12.770348,
+        80.253672
+      ]
+    },
+    "cab_id": "CAB-Af-1",
+    "eta": "13:45",
+    "departure": "14:00"
+  },
+  {
+    "employee_id": "EMP040",
+    "shift": "Morning",
+    "pickup": {
+      "type": "doorstep",
+      "coords": [
+        12.812146,
+        80.185738
+      ]
+    },
+    "cab_id": "CAB-Mo-1",
+    "eta": "05:45",
+    "departure": "06:00"
+  },
+  {
+    "employee_id": "EMP041",
+    "shift": "Afternoon",
+    "pickup": {
+      "type": "nodal",
+      "coords": [
+        12.868694,
+        80.131918
+      ]
+    },
+    "cab_id": "CAB-Af-1",
+    "eta": "13:34",
+    "departure": "14:00"
+  },
+  {
+    "employee_id": "EMP042",
+    "shift": "Afternoon",
+    "pickup": {
+      "type": "nodal",
+      "coords": [
+        12.770786,
+        80.182493
+      ]
+    },
+    "cab_id": "CAB-Af-1",
+    "eta": "13:45",
+    "departure": "14:00"
+  },
+  {
+    "employee_id": "EMP043",
+    "shift": "Night",
+    "pickup": {
+      "type": "doorstep",
+      "coords": [
+        12.827713,
+        80.284806
+      ]
+    },
+    "cab_id": "CAB-Ni-1",
+    "eta": "21:45",
+    "departure": "22:00"
+  },
+  {
+    "employee_id": "EMP044",
+    "shift": "Afternoon",
+    "pickup": {
+      "type": "nodal",
+      "coords": [
+        12.830797,
+        80.13811
+      ]
+    },
+    "cab_id": "CAB-Af-1",
+    "eta": "13:45",
+    "departure": "14:00"
+  },
+  {
+    "employee_id": "EMP045",
+    "shift": "Mid Day",
+    "pickup": {
+      "type": "nodal",
+      "coords": [
+        12.884915,
+        80.323145
+      ]
+    },
+    "cab_id": "CAB-Mi-1",
+    "eta": "10:45",
+    "departure": "11:00"
+  },
+  {
+    "employee_id": "EMP046",
+    "shift": "Morning",
+    "pickup": {
+      "type": "doorstep",
+      "coords": [
+        12.693064,
+        80.208747
+      ]
+    },
+    "cab_id": "CAB-Mo-1",
+    "eta": "05:45",
+    "departure": "06:00"
+  },
+  {
+    "employee_id": "EMP047",
+    "shift": "Mid Day",
+    "pickup": {
+      "type": "nodal",
+      "coords": [
+        12.78371,
+        80.293421
+      ]
+    },
+    "cab_id": "CAB-Mi-1",
+    "eta": "10:45",
+    "departure": "11:00"
+  },
+  {
+    "employee_id": "EMP048",
+    "shift": "Morning",
+    "pickup": {
+      "type": "doorstep",
+      "coords": [
+        12.848652,
+        80.152469
+      ]
+    },
+    "cab_id": "CAB-Mo-1",
+    "eta": "05:45",
+    "departure": "06:00"
+  },
+  {
+    "employee_id": "EMP049",
+    "shift": "Night",
+    "pickup": {
+      "type": "doorstep",
+      "coords": [
+        12.752,
+        80.268524
+      ]
+    },
+    "cab_id": "CAB-Ni-1",
+    "eta": "21:45",
+    "departure": "22:00"
+  },
+  {
+    "employee_id": "EMP050",
+    "shift": "General",
+    "pickup": {
+      "type": "nodal",
+      "coords": [
+        12.821304,
+        80.102845
+      ]
+    },
+    "cab_id": "CAB-Ge-1",
+    "eta": "08:45",
+    "departure": "09:00"
+  }
+]
