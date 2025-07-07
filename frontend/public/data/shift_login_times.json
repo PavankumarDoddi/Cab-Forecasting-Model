@@ -1,0 +1,22 @@
+[
+  {
+    "shift_name": "morning",
+    "login_time": "06:00",
+    "pickup_location": "house"
+  },
+  {
+    "shift_name": "general",
+    "login_time": "09:00",
+    "pickup_location": "nodal_point"
+  },
+  {
+    "shift_name": "mid_day",
+    "login_time": "11:00",
+    "pickup_location": "nodal_point"
+  },
+  {
+    "shift_name": "afternoon",
+    "login_time": "14:00",
+    "pickup_location": "nodal_point"
+  }
+]

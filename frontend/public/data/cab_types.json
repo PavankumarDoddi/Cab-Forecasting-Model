@@ -1,0 +1,17 @@
+[
+  {
+    "cab_type_id": "3_seater",
+    "name": "3 Seater Cab",
+    "capacity": 3
+  },
+  {
+    "cab_type_id": "5_seater",
+    "name": "5 Seater Cab",
+    "capacity": 5
+  },
+  {
+    "cab_type_id": "8_seater",
+    "name": "8 Seater Cab",
+    "capacity": 8
+  }
+]

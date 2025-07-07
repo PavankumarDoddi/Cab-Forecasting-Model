@@ -1,0 +1,402 @@
+[
+  {
+    "employee_id": "EMP001",
+    "nodal_point_id": 1,
+    "house_location": {
+      "latitude": 12.869967,
+      "longitude": 80.132443
+    }
+  },
+  {
+    "employee_id": "EMP002",
+    "nodal_point_id": 2,
+    "house_location": {
+      "latitude": 12.769267,
+      "longitude": 80.183363
+    }
+  },
+  {
+    "employee_id": "EMP003",
+    "nodal_point_id": 3,
+    "house_location": {
+      "latitude": 12.829372,
+      "longitude": 80.282353
+    }
+  },
+  {
+    "employee_id": "EMP004",
+    "nodal_point_id": 4,
+    "house_location": {
+      "latitude": 12.829481,
+      "longitude": 80.136931
+    }
+  },
+  {
+    "employee_id": "EMP005",
+    "nodal_point_id": 5,
+    "house_location": {
+      "latitude": 12.886834,
+      "longitude": 80.32299
+    }
+  },
+  {
+    "employee_id": "EMP006",
+    "nodal_point_id": 6,
+    "house_location": {
+      "latitude": 12.693719,
+      "longitude": 80.207435
+    }
+  },
+  {
+    "employee_id": "EMP007",
+    "nodal_point_id": 7,
+    "house_location": {
+      "latitude": 12.782724,
+      "longitude": 80.291736
+    }
+  },
+  {
+    "employee_id": "EMP008",
+    "nodal_point_id": 8,
+    "house_location": {
+      "latitude": 12.847328,
+      "longitude": 80.152314
+    }
+  },
+  {
+    "employee_id": "EMP009",
+    "nodal_point_id": 9,
+    "house_location": {
+      "latitude": 12.749624,
+      "longitude": 80.270369
+    }
+  },
+  {
+    "employee_id": "EMP010",
+    "nodal_point_id": 10,
+    "house_location": {
+      "latitude": 12.820397,
+      "longitude": 80.104672
+    }
+  },
+  {
+    "employee_id": "EMP011",
+    "nodal_point_id": 11,
+    "house_location": {
+      "latitude": 12.795149,
+      "longitude": 80.207345
+    }
+  },
+  {
+    "employee_id": "EMP012",
+    "nodal_point_id": 12,
+    "house_location": {
+      "latitude": 12.910932,
+      "longitude": 80.18108
+    }
+  },
+  {
+    "employee_id": "EMP013",
+    "nodal_point_id": 13,
+    "house_location": {
+      "latitude": 12.733938,
+      "longitude": 80.20028
+    }
+  },
+  {
+    "employee_id": "EMP014",
+    "nodal_point_id": 14,
+    "house_location": {
+      "latitude": 12.864941,
+      "longitude": 80.260761
+    }
+  },
+  {
+    "employee_id": "EMP015",
+    "nodal_point_id": 15,
+    "house_location": {
+      "latitude": 12.749922,
+      "longitude": 80.147903
+    }
+  },
+  {
+    "employee_id": "EMP016",
+    "nodal_point_id": 16,
+    "house_location": {
+      "latitude": 12.923966,
+      "longitude": 80.265214
+    }
+  },
+  {
+    "employee_id": "EMP017",
+    "nodal_point_id": 17,
+    "house_location": {
+      "latitude": 12.689416,
+      "longitude": 80.191052
+    }
+  },
+  {
+    "employee_id": "EMP018",
+    "nodal_point_id": 18,
+    "house_location": {
+      "latitude": 12.861061,
+      "longitude": 80.248076
+    }
+  },
+  {
+    "employee_id": "EMP019",
+    "nodal_point_id": 19,
+    "house_location": {
+      "latitude": 12.770645,
+      "longitude": 80.253589
+    }
+  },
+  {
+    "employee_id": "EMP020",
+    "nodal_point_id": 20,
+    "house_location": {
+      "latitude": 12.811543,
+      "longitude": 80.182275
+    }
+  },
+  {
+    "employee_id": "EMP021",
+    "nodal_point_id": 1,
+    "house_location": {
+      "latitude": 12.866773,
+      "longitude": 80.133439
+    }
+  },
+  {
+    "employee_id": "EMP022",
+    "nodal_point_id": 2,
+    "house_location": {
+      "latitude": 12.772234,
+      "longitude": 80.180568
+    }
+  },
+  {
+    "employee_id": "EMP023",
+    "nodal_point_id": 3,
+    "house_location": {
+      "latitude": 12.82695,
+      "longitude": 80.28226
+    }
+  },
+  {
+    "employee_id": "EMP024",
+    "nodal_point_id": 4,
+    "house_location": {
+      "latitude": 12.829888,
+      "longitude": 80.139327
+    }
+  },
+  {
+    "employee_id": "EMP025",
+    "nodal_point_id": 5,
+    "house_location": {
+      "latitude": 12.886723,
+      "longitude": 80.324876
+    }
+  },
+  {
+    "employee_id": "EMP026",
+    "nodal_point_id": 6,
+    "house_location": {
+      "latitude": 12.696048,
+      "longitude": 80.205865
+    }
+  },
+  {
+    "employee_id": "EMP027",
+    "nodal_point_id": 7,
+    "house_location": {
+      "latitude": 12.78388,
+      "longitude": 80.293697
+    }
+  },
+  {
+    "employee_id": "EMP028",
+    "nodal_point_id": 8,
+    "house_location": {
+      "latitude": 12.849336,
+      "longitude": 80.150646
+    }
+  },
+  {
+    "employee_id": "EMP029",
+    "nodal_point_id": 9,
+    "house_location": {
+      "latitude": 12.750472,
+      "longitude": 80.269497
+    }
+  },
+  {
+    "employee_id": "EMP030",
+    "nodal_point_id": 10,
+    "house_location": {
+      "latitude": 12.819641,
+      "longitude": 80.103014
+    }
+  },
+  {
+    "employee_id": "EMP031",
+    "nodal_point_id": 11,
+    "house_location": {
+      "latitude": 12.792794,
+      "longitude": 80.208355
+    }
+  },
+  {
+    "employee_id": "EMP032",
+    "nodal_point_id": 12,
+    "house_location": {
+      "latitude": 12.909398,
+      "longitude": 80.179535
+    }
+  },
+  {
+    "employee_id": "EMP033",
+    "nodal_point_id": 13,
+    "house_location": {
+      "latitude": 12.734683,
+      "longitude": 80.19973
+    }
+  },
+  {
+    "employee_id": "EMP034",
+    "nodal_point_id": 14,
+    "house_location": {
+      "latitude": 12.86645,
+      "longitude": 80.262289
+    }
+  },
+  {
+    "employee_id": "EMP035",
+    "nodal_point_id": 15,
+    "house_location": {
+      "latitude": 12.750734,
+      "longitude": 80.147445
+    }
+  },
+  {
+    "employee_id": "EMP036",
+    "nodal_point_id": 16,
+    "house_location": {
+      "latitude": 12.922671,
+      "longitude": 80.264838
+    }
+  },
+  {
+    "employee_id": "EMP037",
+    "nodal_point_id": 17,
+    "house_location": {
+      "latitude": 12.68881,
+      "longitude": 80.190978
+    }
+  },
+  {
+    "employee_id": "EMP038",
+    "nodal_point_id": 18,
+    "house_location": {
+      "latitude": 12.860922,
+      "longitude": 80.246224
+    }
+  },
+  {
+    "employee_id": "EMP039",
+    "nodal_point_id": 19,
+    "house_location": {
+      "latitude": 12.770399,
+      "longitude": 80.254655
+    }
+  },
+  {
+    "employee_id": "EMP040",
+    "nodal_point_id": 20,
+    "house_location": {
+      "latitude": 12.812146,
+      "longitude": 80.185738
+    }
+  },
+  {
+    "employee_id": "EMP041",
+    "nodal_point_id": 1,
+    "house_location": {
+      "latitude": 12.867937,
+      "longitude": 80.131411
+    }
+  },
+  {
+    "employee_id": "EMP042",
+    "nodal_point_id": 2,
+    "house_location": {
+      "latitude": 12.770307,
+      "longitude": 80.181383
+    }
+  },
+  {
+    "employee_id": "EMP043",
+    "nodal_point_id": 3,
+    "house_location": {
+      "latitude": 12.827713,
+      "longitude": 80.284806
+    }
+  },
+  {
+    "employee_id": "EMP044",
+    "nodal_point_id": 4,
+    "house_location": {
+      "latitude": 12.832135,
+      "longitude": 80.136842
+    }
+  },
+  {
+    "employee_id": "EMP045",
+    "nodal_point_id": 5,
+    "house_location": {
+      "latitude": 12.884558,
+      "longitude": 80.321275
+    }
+  },
+  {
+    "employee_id": "EMP046",
+    "nodal_point_id": 6,
+    "house_location": {
+      "latitude": 12.693064,
+      "longitude": 80.208747
+    }
+  },
+  {
+    "employee_id": "EMP047",
+    "nodal_point_id": 7,
+    "house_location": {
+      "latitude": 12.785685,
+      "longitude": 80.294718
+    }
+  },
+  {
+    "employee_id": "EMP048",
+    "nodal_point_id": 8,
+    "house_location": {
+      "latitude": 12.848652,
+      "longitude": 80.152469
+    }
+  },
+  {
+    "employee_id": "EMP049",
+    "nodal_point_id": 9,
+    "house_location": {
+      "latitude": 12.752,
+      "longitude": 80.268524
+    }
+  },
+  {
+    "employee_id": "EMP050",
+    "nodal_point_id": 10,
+    "house_location": {
+      "latitude": 12.819625,
+      "longitude": 80.102859
+    }
+  }
+]
